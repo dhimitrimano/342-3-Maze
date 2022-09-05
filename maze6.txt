@@ -1,0 +1,21 @@
+20 7
+5 0
+0 18
+XXXXXXXXXXXXXXXXXX X
+XXXXXXXXXXXXXXXX   X
+XXXXXXXXXXXXXXXX  XX
+X                  X
+X                  X
+                   X
+XXXXXXXXXXXXXXXXXXXX
+
+# Possible solution
+*** Solving maze6.txt
+Path: SWWSSSSWWWWWWWWWWWWWWWW
+XXXXXXXXXXXXXXXXXX*X
+XXXXXXXXXXXXXXXX***X
+XXXXXXXXXXXXXXXX* XX
+X               *  X
+X               *  X
+*****************  X
+XXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,21 @@
+20 7
+6 12
+1 0
+XXXXXXXXXXXXXXXXXXXX
+                   X
+X                  X
+X                  X
+X                  X
+X                  X
+XXXXXXXXXXXX XXXXXXX
+
+# Possible solution, not the shortest path
+*** Solving maze5.txt
+Path: EEEEEEEEEEEEEEEEEESSSSWWWWWWS
+XXXXXXXXXXXXXXXXXXXX
+*******************X
+X+++++++++++++++++*X
+X+++++++++++++++++*X
+X+++++++++++++++++*X
+X+++++++++++*******X
+XXXXXXXXXXXX*XXXXXXX

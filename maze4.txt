@@ -1,0 +1,21 @@
+20 7
+6 12
+3 19
+XXXXXXXXXXXXXXXXXXXX
+X          XXXXXXXXX
+X          XXXXXXXXX
+X                   
+X          X XXXXXXX
+X          X XXXXXXX
+XXXXXXXXXXXX XXXXXXX
+
+# Possible solution, not the shortest path
+*** Solving maze4.txt
+Path: WWWWWWWSSS
+XXXXXXXXXXXXXXXXXXXX
+X++++++++++XXXXXXXXX
+X++++++++++XXXXXXXXX
+X+++++++++++********
+X++++++++++X*XXXXXXX
+X++++++++++X*XXXXXXX
+XXXXXXXXXXXX*XXXXXXX
