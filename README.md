@@ -72,3 +72,6 @@ The options are defined in `.clang-tidy` file.
 This file is part of a repository located at
 https://github.com/pisan342/ass3-maze-starter
 
+Credits:<br>
+Shell scripts and starter code provided by Yusuf Pisan<br>
+Maze class implementation by Dhimitri Mano
